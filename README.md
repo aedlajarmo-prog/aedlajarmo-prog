@@ -212,34 +212,6 @@ Customer-focused backend ecosystem designed for business rankings, review data, 
 
 ---
 
-## &nbsp;📊 &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aedlajarmo-prog&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9&ring_color=00ADD8&count_private=true&border_radius=10"/>
-
-&nbsp;&nbsp;
-
-<br/><br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aedlajarmo-prog&theme=tokyonight&hide_border=true&background=0d1117&ring=00ADD8&fire=FF6F00&currStreakLabel=00ADD8&sideNums=c9d1d9&dates=6e7681&border_radius=10&currStreakNum=ffffff&sideLabels=00ADD8"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aedlajarmo-prog/aedlajarmo-prog/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aedlajarmo-prog/aedlajarmo-prog/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aedlajarmo-prog/aedlajarmo-prog/output/github-contribution-grid-snake.svg" width="90%"/>
-</picture>
-
-</div>
-
----
-
 ## &nbsp;💭 &nbsp;What Drives Me
 
 <div align="center">
